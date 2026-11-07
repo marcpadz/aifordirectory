@@ -8,6 +8,7 @@ const TOOLS = [
   { name: "Perplexity", category: "Productivity", desc: "AI-powered answer engine with sources.", price: "Free / Pro", url: "https://perplexity.ai" },
   { name: "Jasper", category: "Marketing", desc: "AI copywriting for marketing teams.", price: "Paid", url: "https://jasper.ai" },
   { name: "GitHub Copilot", category: "Coding", desc: "AI pair programmer for developers.", price: "Paid", url: "https://github.com/features/copilot" },
+  { name: "agent-qa", category: "Coding", desc: "Plain-English web, Android and iOS tests with persistent memidex memory and evidence-validated self-improvement. FSL-1.1-ALv2; model/API and environment costs extra.", price: "Free permitted use", url: "https://vostride.com" },
   { name: "Canva", category: "Design", desc: "Design platform with AI features.", price: "Free / Pro", url: "https://canva.com" },
   { name: "Descript", category: "Audio", desc: "AI-powered audio and video editing.", price: "Free / Paid", url: "https://descript.com" },
   { name: "Notion AI", category: "Productivity", desc: "AI writing and organization inside Notion.", price: "Free / add-on", url: "https://notion.com" },
